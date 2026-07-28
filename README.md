@@ -1,4 +1,11 @@
 # 🏆 Ballon d'Or 2026 Analysis Dashboard
+## Dashboard Preview
+Bellow are the two pages of the interactive Power BI dashboard.
+### Player Performance Dashboard
+![Dashboard Overview](Images/Dashboard_overview.png.png)
+### Final Player Ranking
+![Player Ranking](Images/Player_Ranking.png.png)
+___
 
 ## Project Overview
 
