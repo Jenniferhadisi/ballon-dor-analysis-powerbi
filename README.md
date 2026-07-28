@@ -87,4 +87,5 @@ Each player receives a score based on a combination of individual and team perfo
 ## About the Author
 
 Hi, I'm **Jennifer Hadisi**, an aspiring Data Analyst with a background in **Business Management** and **Aviation**. This project is part of my data analytics portfolio, where I use data analysis and visualization techniques to turn data into meaningful insights. I'm currently expanding my skills in **Power BI, Excel, SQL, Python, and data visualization**, and I'm always open to learning, feedback, and new opportunities.
-Thank you for taking the time to explore this project. Feedback is always welcome!
+
+Thank you for taking the time to explore this project. Feedback is always appreciated!
