@@ -4,7 +4,7 @@
 
 This project is an interactive Power BI dashboard that analyzes the performance of 20 Ballon d'Or 2026 candidates using publicly available football statistics.
 
-The goal was to build a simple, user-friendly dashboard that allows users to explore player performance through interactive filters and visualizations. Rather than overwhelming users with advanced metrics, I focused on presenting the data in a clear and accessible way so that anyone—whether they follow football closely or not—can easily understand the analysis.
+The goal was to build a simple, user-friendly dashboard that allows users to explore player performance through interactive filters and visualizations. Rather than overwhelming users with advanced metrics, I focused on presenting the data in a clear and accessible way so that anyone, whether they follow football closely or not, can easily understand the analysis.
 
 > **Note:** This ranking is **not** the official FIFA or Ballon d'Or ranking. It is a personal, data-driven ranking based on a custom scoring model created for this project.
 
