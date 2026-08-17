@@ -17,6 +17,60 @@ The goal was to build a simple, user-friendly dashboard that allows users to exp
 
 ---
 
+## 📊 Data Preparation & Scoring Methodology
+
+### 1. Player Performance Data
+
+![Player Performance Ddata](Images/Player%20performance-data.png)
+
+The player dataset contains the core performance information used in the analysis, including player, club, league, national team, minutes played, matches, goals, assists, and average rating.
+
+This dataset formed the foundation of the analysis and was cleaned and organized in Excel before being used in Power BI.
+
+### 2. Trophies & Achievements Data
+
+![Trophies Data](Images/Trophies-data.png)
+
+The trophies dataset captures collective and individual achievements for each player. These achievements were incorporated into the custom scoring model to account for success beyond individual match statistics.
+
+---
+
+### 3. Disciplinary Data
+
+![Disciplinary Data](Images/Discipline-data.png)
+
+The disciplinary dataset tracks yellow and red cards for each player. These variables were included as penalty factors in the scoring model, allowing disciplinary records to reduce a player's overall score.
+
+---
+
+### 4. Data Sources
+
+![Data Sources](Images/Data-sources.png)
+
+Player statistics for this educational project were collected from publicly available football statistics platforms, including WhoScored and StatMuse.
+
+The sources were documented separately in the Excel workbook to maintain transparency about the data used in the analysis.
+
+---
+
+### 5. Custom Scoring & Ranking Model
+
+![Ranking Data](Images/Ranking-data.png)
+
+The prepared datasets were combined into a custom performance scoring model incorporating goals, assists, average rating, collective achievements, individual achievements, yellow cards, and red cards.
+
+The different metrics were normalized to account for their different scales. Positive performance and achievement indicators contribute to the player's score, while disciplinary records act as penalties.
+
+The final score was then used to rank the 20 selected players from highest to lowest.
+
+### 🏆 Ranking Result
+
+Based on this custom model, Harry Kane ranked first with a score of approximately 58.16, followed by Kylian Mbappé with 51.75 and Michael Olise with 48.10.
+
+> **Disclaimer:** This project was created for educational and portfolio purposes only. The ranking is based on a custom scoring model developed for this analysis and is not affiliated with, representative of, or intended to predict the official Ballon d'Or ranking.
+
+---
+
 ## Objective
 
 The purpose of this project was to:
